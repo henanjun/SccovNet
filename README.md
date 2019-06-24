@@ -1,7 +1,7 @@
 # SccovNet
 SccovNet for remote sensing scene image classification
 
-De following steps to run the demo:
+Do following steps to run the demo:
 
 1. Install Matconvnet:http://www.vlfeat.org/matconvnet/.
 2. Download pretrained model and move it into 'model':http://www.vlfeat.org/matconvnet/pretrained/
