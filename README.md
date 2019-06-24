@@ -10,5 +10,5 @@ De following steps to run the demo:
 5. add 'datalaoder','function' and 'model' into your path
 7. run 'sccovnet_demo_alexnet.m'
 
-wrriten by Nanjun He ('henanjun@hnu.edu.cn')
+written by Nanjun He ('henanjun@hnu.edu.cn')
 SccovNet is the end-to-end model of MSCP(https://github.com/henanjun/code_MSCP)
